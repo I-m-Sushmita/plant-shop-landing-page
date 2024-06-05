@@ -17,7 +17,7 @@ The Plant Shop Landing Page is a meticulously crafted web page designed to promo
 - [Contributing](#contributing)
 - [License](#license)
 ## Demo
-You can view a live demo of the landing page here.
+You can view a live demo of the landing page here (https://i-m-sushmita.github.io/plant-shop-landing-page/)
 ## Features
 - **Responsive Design** : Adjusts to different screen sizes using Bootstrap.
 - **Navigation Bar** : Includes links to different sections of the page.
@@ -29,7 +29,7 @@ You can view a live demo of the landing page here.
 
 ## Usage
 
-  1. Open the  `link` in any web browser to view the tribute page.
+  1. Open the link ( https://i-m-sushmita.github.io/plant-shop-landing-page/) in any web browser to view the landing page.
 2. Customize the content and styles as needed:
 
 - Modify the HTML in the `index.html` file.
