@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+:root{
+    --text-color:black;
+    --snd-text-color: grey;
+    --bground-color:#e1e7d9;
+    --btn-hover-color:#198754;
+}
+
+/* Navbar CSS */
+ 
+nav .nav-item a {
+font-size: 1.2rem;
+font-weight: 500;
+margin-left: 2rem;
+color: var(--snd-text-color);
+}
+nav .nav-item a:hover{
+    color: var(--btn-hover-color);
+    text-decoration: underline;
+}
+
+#special-offer .text{
+    margin-left: 3rem;
+}
+
+#special-offer .text i,.star{
+    color: rgb(223, 223, 11);
+}
+.price{
+    display:inline-flex;
+}
+#features .fa-percent, .fas, .fa{
+    font-size:2rem;
+    
+}
+#contact{
+    margin-top: 8rem;
+    padding-top: 2rem;
+}
+.social a{
+    font-size: 1rem;
+}
+
+
